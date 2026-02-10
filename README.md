@@ -66,15 +66,26 @@ L’ensemble est déployé sur un réseau virtuel dédié.
 
 ## 📂 Structure du dépôt
 ```
+.
+├── apps
+│   └── dvwa
+│       ├── config
+│       ├── database
+│       ├── docs
+│       └── src
+├── infrastructure
+│   ├── vm
+│   ├── network
+│   └── reverse-proxy
+├── security
+│   ├── red-teaming
+│   ├── blue-teaming
+│   ├── ips
+│   └── waf
+├── scripts
 ├── docs
 │   ├── rapport
 │   └── annexes
-├── infrastructure
-│   ├── vm
-│   └── network
-├── red-teaming
-├── blue-teaming
-├── scripts
 ├── meeting-notes
 └── README.md
 ```
