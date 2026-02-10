@@ -1,4 +1,4 @@
-dit# DVWA – Mitigation des vulnérabilités Web
+# DVWA – Mitigation des vulnérabilités Web
 
 ## 📌 Contexte du projet
 Ce projet s’inscrit dans le cadre du cours **INF-806 / IFT-509 – Systèmes et réseaux**.  
