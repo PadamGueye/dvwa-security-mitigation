@@ -68,23 +68,14 @@ L’ensemble est déployé sur un réseau virtuel dédié.
 
 ├── docs
 │   ├── rapport
-
 │   └── annexes
-
 ├── infrastructure
-
 │   ├── vm
-
 │   └── network
-
 ├── red-teaming
-
 ├── blue-teaming
-
 ├── scripts
-
 ├── meeting-notes
-
 └── README.md
 
 ---
