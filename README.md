@@ -65,7 +65,7 @@ L’ensemble est déployé sur un réseau virtuel dédié.
 ---
 
 ## 📂 Structure du dépôt
-
+```
 ├── docs
 │   ├── rapport
 │   └── annexes
@@ -77,7 +77,7 @@ L’ensemble est déployé sur un réseau virtuel dédié.
 ├── scripts
 ├── meeting-notes
 └── README.md
-
+```
 ---
 
 ## 🗓️ Organisation du travail
